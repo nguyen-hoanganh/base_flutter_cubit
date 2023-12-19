@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "567761638363",
+    "project_id": "cbp-mobile-4ea21",
+    "storage_bucket": "cbp-mobile-4ea21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567761638363:android:743cc06dbf07cf6c864dfe",
+        "android_client_info": {
+          "package_name": "com.alphaway.cbp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNql4LNUDyRwEvCy2m-mR6l6I4QQcIcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567761638363:android:5a58350b98e0c452864dfe",
+        "android_client_info": {
+          "package_name": "com.alphaway.cbp.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNql4LNUDyRwEvCy2m-mR6l6I4QQcIcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

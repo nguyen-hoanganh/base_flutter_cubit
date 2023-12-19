@@ -1,0 +1,4 @@
+enum PinPosition {
+  left,
+  right,
+}

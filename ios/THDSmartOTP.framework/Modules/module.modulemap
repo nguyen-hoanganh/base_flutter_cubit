@@ -1,0 +1,11 @@
+framework module THDSmartOTP {
+  umbrella header "THDSmartOTP.h"
+
+  export *
+  module * { export * }
+}
+
+module THDSmartOTP.Swift {
+  header "THDSmartOTP-Swift.h"
+  requires objc
+}
